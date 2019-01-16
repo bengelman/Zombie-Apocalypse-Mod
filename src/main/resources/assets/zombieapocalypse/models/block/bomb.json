@@ -1,0 +1,10 @@
+
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "zombieapocalypse:blocks/bomb_bottom",
+        "top": "zombieapocalypse:blocks/bomb_top",
+        "side": "zombieapocalypse:blocks/bomb_side"
+        
+    }
+}

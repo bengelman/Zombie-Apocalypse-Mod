@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+                   { "model": "zombieapocalypse:bomb" },
+                   { "model": "zombieapocalypse:bomb", "y": 90 },
+                   { "model": "zombieapocalypse:bomb", "y": 180 },
+                   { "model": "zombieapocalypse:bomb", "y": 270 }
+                   ]
+    }
+}

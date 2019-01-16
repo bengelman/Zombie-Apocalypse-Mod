@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zombieapocalypse",
+  "name": "Zombie Apocalypse",
+  "description": "Survive the Zombie Apocalypse!",
+  "version": "${1.8}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["pdogmuncher"],
+  "credits": "Thanks to the community for all the great suggestions that make this mod better!",
+  "logoFile": "assets/zombieapocalypse/Logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

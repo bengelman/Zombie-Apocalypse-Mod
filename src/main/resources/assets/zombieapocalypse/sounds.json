@@ -1,0 +1,44 @@
+{
+    "music.tinte":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+         "background/tinte"
+         ]
+    },
+    "sound.soldierhit":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+         "hit1",
+         "hit2",
+         "hit3"
+         ]
+    },
+    "music.bangarang":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+         "background/bangarang"
+         ]
+    },
+    "alarm":
+    {
+        "category": "neutral",
+        "sounds":
+        [
+         "alarm"
+         ]
+    },
+    "wwz":
+    {
+        "category": "music",
+        "sounds":
+        [
+        "wwz"
+        ]
+    }
+}

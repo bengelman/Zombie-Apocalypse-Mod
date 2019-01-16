@@ -1,0 +1,10 @@
+
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "zombieapocalypse:blocks/landmine",
+        "top": "zombieapocalypse:blocks/landmine",
+        "side": "minecraft:blocks/redstone_lamp_on"
+        
+    }
+}
